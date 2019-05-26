@@ -1,4 +1,4 @@
-# object_tracher
+# object_tracker
 Real Time Object Tracker
 
 ## Description
